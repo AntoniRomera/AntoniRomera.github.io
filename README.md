@@ -4,6 +4,8 @@ Personal portfolio landing site for **Antoni Romera Luis** — AI / Cloud / DevO
 
 Live: https://antoniromera.github.io
 
+![Portfolio site preview](docs/site.png)
+
 ## Stack
 
 Pure static site — **no build step, no dependencies to install**.
